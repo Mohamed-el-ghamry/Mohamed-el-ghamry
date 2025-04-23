@@ -35,6 +35,7 @@ My journey in networks and telecommunications has sparked a strong interest in c
 <img src="https://img.shields.io/badge/Virtualization-0056A1?logo=vmware&logoColor=white" alt="Virtualization">
 <img src="https://img.shields.io/badge/Active%20Directory-0078D4?logo=microsoft&logoColor=white" alt="Active Directory">
 <img src="https://img.shields.io/badge/VPN-4A90E2?logo=cloudflare&logoColor=white" alt="VPN">
+<img src="https://img.shields.io/badge/TCP/IP-0A66C2?logo=internet&logoColor=white" alt="TCP/IP">
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1D69E0?logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
 <img src="https://img.shields.io/badge/Wireshark-167B87?logo=wireshark&logoColor=white" alt="Wireshark">
 

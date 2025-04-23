@@ -61,14 +61,7 @@ My journey in networks and telecommunications has sparked a strong interest in c
   <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" alt="macOS">
 </div>
 
-#### Languages
-<div> 
-  <img src="https://img.shields.io/badge/-English-007ACC?&style=for-the-badge&logo=english&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-French-0055A4?&style=for-the-badge&logo=french&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Arabic-009639?&style=for-the-badge&logo=arabic&logoColor=white" /> 
-</div>
-
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Cybersecurity HomeLab
+- Powershell Automation Project

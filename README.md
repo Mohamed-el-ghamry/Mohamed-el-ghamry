@@ -11,9 +11,9 @@ My journey in networks and telecommunications has sparked a strong interest in c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Mohamed-el-ghamry/Cybersecurity-Homelab">CyberSecurity Homelab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Mohamed-el-ghamry/Cybersecurity-Homelab">CyberSecurity Homelab</a>|
-| Incident Response Planning and Execution      |  Automation Lab|
+| Enterprise Security Monitoring, SIEM Deployment and Log Analysis          | <a href="https://github.com/Mohamed-el-ghamry/Cybersecurity-Homelab">CyberSecurity Homelab</a>|
+| Network Traffic Monitoring, Active Directory Infrastructure & Network Defense| <a href="https://github.com/Mohamed-el-ghamry/Cybersecurity-Homelab">CyberSecurity Homelab</a>|
+| Incident Response Planning and Execution      |  <a href="https://github.com/Mohamed-el-ghamry/Cybersecurity-Homelab">CyberSecurity Homelab</a>|
 
 
 ## Tools

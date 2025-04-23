@@ -11,12 +11,10 @@ My journey in networks and telecommunications has sparked a strong interest in c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a hreff="https://google.com">Home Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a hfref="https://google.com">Home Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Mohamed-el-ghamry/Cybersecurity-Homelab">CyberSecurity Homelab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Mohamed-el-ghamry/Cybersecurity-Homelab">CyberSecurity Homelab</a>|
+| Incident Response Planning and Execution      |  Automation Lab|
+
 
 ## Tools
 
@@ -63,5 +61,5 @@ My journey in networks and telecommunications has sparked a strong interest in c
 
 
 ## Projects
-- Cybersecurity HomeLab
+- <a href="https://github.com/Mohamed-el-ghamry/Cybersecurity-Homelab">CyberSecurity Homelab</a>
 - Powershell Automation Project
